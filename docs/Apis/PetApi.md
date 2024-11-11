@@ -150,6 +150,8 @@ Find pet by ID
 - **Content-Type**: Not defined
 - **Accept**: application/xml, application/json
 
+<iframe src="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/diogocardoso-stratio/swagger-petstore/master/src/main/resources/openapi.yaml#/pet/{petId}" width="100%" height="400px"></iframe>
+
 <a name="updatePet"></a>
 # **updatePet**
 > Pet updatePet(Pet)
